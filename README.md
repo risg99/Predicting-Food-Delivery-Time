@@ -4,7 +4,7 @@ The entire world is transforming digitally and our relationship with technology 
 
 When was the last time you ordered food online? And how long did it take to reach you?
 
-In this project, we have data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data sciennce aspirants, our goal is to predict the online order delivery time based on the given factors.
+In this project, we have data from thousands of restaurants in India regarding the time they take to deliver food for online order. As data science aspirants, our goal is to predict the online order delivery time based on the given factors.
 
 # About the data:
 #### Size of training set: 11,094 records
