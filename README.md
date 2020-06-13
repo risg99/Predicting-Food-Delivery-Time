@@ -30,3 +30,6 @@ In this project, we have data from thousands of restaurants in India regarding t
 * machineHack.ipynb - ipynb file that cleans the data, applies ML algorithm to find the delivery time
 * output.xlsx - results on the Data_Test.xlsx stored as per the sample file
 * train.py - python file for cleaning the data
+
+# Assumptions:
+In this project's dataset, we have considered 0 mins delay due to traffic or remote place locations of the user's house for delivery.
